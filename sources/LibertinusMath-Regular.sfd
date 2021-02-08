@@ -85409,68 +85409,43 @@ EndChar
 
 StartChar: existential
 Encoding: 8707 8707 2069
-Width: 400
+Width: 500
 GlyphClass: 2
 Flags: MW
 LayerCount: 2
 Fore
 SplineSet
-366 572 m 1
- 366 0 l 1
- 35 0 l 1
- 35 65 l 1
- 297 65 l 1
- 297 272 l 1
- 51 272 l 1
- 51 337 l 1
- 297 337 l 1
- 297 507 l 1
- 41 507 l 1
- 41 572 l 1
- 366 572 l 1
+450 645 m 1
+ 450 0 l 1
+ 59 0 l 1
+ 47 12 47 38 59 50 c 1
+ 400 50 l 1
+ 400 298 l 1
+ 79 298 l 1
+ 67 310 67 335 79 347 c 1
+ 400 347 l 1
+ 400 595 l 1
+ 59 595 l 1
+ 47 607 47 633 59 645 c 1
+ 450 645 l 1
 EndSplineSet
 EndChar
 
 StartChar: uni2204
 Encoding: 8708 8708 2070
-Width: 400
+Width: 500
 GlyphClass: 2
 Flags: MW
 LayerCount: 2
 Fore
 SplineSet
-366 572 m 1
- 366 0 l 1
- 95.8 0 l 1
- 67 -80 l 1
- 30 -68 l 1
- 54.6 0 l 1
- 35 0 l 1
- 35 65 l 1
- 78.1 65 l 1
- 153 272 l 1
- 51 272 l 1
- 51 337 l 1
- 176.5 337 l 1
- 238 507 l 1
- 41 507 l 1
- 41 572 l 1
- 261.5 572 l 1
- 289 648 l 1
- 325 637 l 1
- 301.6 572 l 1
- 366 572 l 1
-278.2 507 m 1
- 217.1 337 l 1
- 297 337 l 1
- 297 507 l 1
- 278.2 507 l 1
-193.7 272 m 1
- 119.2 65 l 1
- 297 65 l 1
- 297 272 l 1
- 193.7 272 l 1
+106 -102 m 1
+ 97 -111 70 -111 61 -102 c 1
+ 376 747 l 1
+ 385 756 412 756 421 747 c 1
+ 106 -102 l 1
 EndSplineSet
+Refer: 2069 8707 N 1 0 0 1 0 0 2
 Colour: ff9ccc
 EndChar
 
