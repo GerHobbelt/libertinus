@@ -85385,25 +85385,25 @@ EndChar
 
 StartChar: universal
 Encoding: 8704 8704 2068
-Width: 488
+Width: 598
 GlyphClass: 2
 Flags: MW
 LayerCount: 2
 Fore
 SplineSet
-284 -2 m 1
- 205 -2 l 1
- 9 570 l 1
- 82 570 l 1
- 128 423 l 1
- 360 423 l 1
- 407 570 l 1
- 480 570 l 1
- 284 -2 l 1
-246 74 m 1
- 339 359 l 1
- 149 359 l 1
- 246 74 l 1
+495 645 m 1
+ 507 657 536 657 548 645 c 1
+ 326 0 l 1
+ 314 -6 284 -6 272 0 c 1
+ 50 645 l 1
+ 62 657 91 657 103 645 c 1
+ 177.4 429 l 1
+ 420.6 429 l 1
+ 495 645 l 1
+194.63 379 m 1
+ 299 76 l 1
+ 403.37 379 l 1
+ 194.63 379 l 1
 EndSplineSet
 EndChar
 
