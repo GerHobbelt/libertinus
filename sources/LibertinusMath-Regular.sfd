@@ -85469,86 +85469,86 @@ EndChar
 
 StartChar: logicaland
 Encoding: 8743 8743 2072
-Width: 481
+Width: 628
 GlyphClass: 2
 Flags: MW
 LayerCount: 2
 Fore
 SplineSet
-242 386 m 1
- 240 386 l 1
- 68 -2 l 1
- 15 -2 l 1
- 215 442 l 1
- 267 442 l 1
- 466 -2 l 1
- 413 -2 l 1
- 242 386 l 1
+313 454 m 1
+ 105 0 l 1
+ 93 -12 62 -12 50 0 c 1
+ 288 520 l 1
+ 300 532 328 532 340 520 c 1
+ 578 0 l 1
+ 566 -12 535 -12 523 0 c 1
+ 315 454 l 1
+ 313 454 l 1
 EndSplineSet
 EndChar
 
 StartChar: logicalor
 Encoding: 8744 8744 2073
-Width: 481
+Width: 628
 GlyphClass: 2
 Flags: MW
 LayerCount: 2
 Fore
 SplineSet
-239 46 m 1
- 241 46 l 1
- 413 434 l 1
- 466 434 l 1
- 266 -10 l 1
- 214 -10 l 1
- 15 434 l 1
- 68 434 l 1
- 239 46 l 1
+313 66 m 1
+ 315 66 l 1
+ 523 520 l 1
+ 535 532 566 532 578 520 c 1
+ 340 0 l 1
+ 328 -12 300 -12 288 0 c 1
+ 50 520 l 1
+ 62 532 93 532 105 520 c 1
+ 313 66 l 1
 EndSplineSet
 Colour: ff00ff
 EndChar
 
 StartChar: intersection
 Encoding: 8745 8745 2074
-Width: 489
+Width: 526
 GlyphClass: 2
 Flags: MW
 LayerCount: 2
 Fore
 SplineSet
-118 0 m 1
- 67 0 l 1
- 67 212 l 2
- 67 337.5 101 439 250 439 c 0
- 391.5 439 422 340 422 212 c 2
- 422 0 l 1
- 371 0 l 1
- 371 212 l 2
- 371 314 351 396 252 396 c 0
- 140.5 396 118 314 118 212 c 2
- 118 0 l 1
+426 0 m 1
+ 426 256 l 2
+ 426 382 396 478 263 478 c 0
+ 130 478 100 382 100 256 c 2
+ 100 0 l 1
+ 88 -12 62 -12 50 0 c 1
+ 50 256 l 2
+ 50 411 88 528 263 528 c 0
+ 438 528 476 411 476 256 c 2
+ 476 0 l 1
+ 464 -12 438 -12 426 0 c 1
 EndSplineSet
 EndChar
 
 StartChar: union
 Encoding: 8746 8746 2075
-Width: 489
+Width: 526
 GlyphClass: 2
 Flags: MW
 LayerCount: 2
 Fore
 SplineSet
-371 429 m 1
- 422 429 l 1
- 422 217 l 2
- 422 91.5 388 -10 239 -10 c 0
- 97.5 -10 67 89 67 217 c 2
- 67 429 l 1
- 118 429 l 1
- 118 217 l 2
- 118 115 138 33 237 33 c 0
- 348.5 33 371 115 371 217 c 2
- 371 429 l 1
+426 520 m 1
+ 438 532 464 532 476 520 c 1
+ 476 264 l 2
+ 476 109 438 -8 263 -8 c 0
+ 88 -8 50 109 50 264 c 2
+ 50 520 l 1
+ 62 532 88 532 100 520 c 1
+ 100 264 l 2
+ 100 138 130 42 263 42 c 0
+ 396 42 426 138 426 264 c 2
+ 426 520 l 1
 EndSplineSet
 Colour: ff00ff
 EndChar
