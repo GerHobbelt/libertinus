@@ -85474,17 +85474,7 @@ GlyphClass: 2
 Flags: MW
 LayerCount: 2
 Fore
-SplineSet
-313 454 m 1
- 105 0 l 1
- 93 -12 62 -12 50 0 c 1
- 288 520 l 1
- 300 532 328 532 340 520 c 1
- 578 0 l 1
- 566 -12 535 -12 523 0 c 1
- 315 454 l 1
- 313 454 l 1
-EndSplineSet
+Refer: 2073 8744 N 1 0 0 -1 0 520 2
 EndChar
 
 StartChar: logicalor
@@ -85515,19 +85505,7 @@ GlyphClass: 2
 Flags: MW
 LayerCount: 2
 Fore
-SplineSet
-426 0 m 1
- 426 256 l 2
- 426 382 396 478 263 478 c 0
- 130 478 100 382 100 256 c 2
- 100 0 l 1
- 88 -12 62 -12 50 0 c 1
- 50 256 l 2
- 50 411 88 528 263 528 c 0
- 438 528 476 411 476 256 c 2
- 476 0 l 1
- 464 -12 438 -12 426 0 c 1
-EndSplineSet
+Refer: 2075 8746 N 1 0 0 -1 0 521 2
 EndChar
 
 StartChar: union
