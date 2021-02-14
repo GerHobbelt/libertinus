@@ -54479,70 +54479,62 @@ EndChar
 
 StartChar: element
 Encoding: 8712 8712 1343
-Width: 500
+Width: 637
 GlyphClass: 2
 Flags: MW
 LayerCount: 2
 Fore
 SplineSet
-443.64 0 m 1
- 307.27 0 l 2
- 162.72 0 50 120 50 260 c 0
- 50 400.91 164.54 520 307.27 520 c 2
- 443.64 520 l 1
- 452.64 511 452.64 477.18 443.64 468.18 c 1
- 302.73 468.18 l 2
- 197.28 468.18 125.46 383.63 113.64 285.45 c 1
- 435.46 285.45 l 1
- 444.46 276.45 444.46 243.55 435.46 234.55 c 1
- 113.64 234.55 l 1
- 127.28 130.91 208.19 51.82 302.73 51.82 c 2
- 443.64 51.82 l 1
- 452.64 42.82 452.64 9 443.64 0 c 1
+70 285 m 1
+ 578 285 l 1
+ 590 273 590 247 578 235 c 1
+ 70 235 l 1
+ 70 285 l 1
 EndSplineSet
+Refer: 2076 8834 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: notelement
 Encoding: 8713 8713 1344
-Width: 500
+Width: 637
 GlyphClass: 2
 UnlinkRmOvrlpSave: 1
 Flags: MW
 LayerCount: 2
 Fore
 SplineSet
-196 -54 m 1
- 187 -63 151 -63 142 -54 c 1
- 370 574 l 1
- 379 583 415 583 424 574 c 1
- 196 -54 l 1
+256 -54 m 1
+ 247 -63 211 -63 202 -54 c 1
+ 430 574 l 1
+ 439 583 475 583 484 574 c 1
+ 256 -54 l 1
 EndSplineSet
-Refer: 1343 8712 N 1 0 0 1 0 0 2
+Refer: 1343 8712 N 1 0 0 1 0 0 3
 Colour: ff9ccc
 EndChar
 
 StartChar: uni220A
 Encoding: 8714 8714 1345
-Width: 382
+Width: 429
 GlyphClass: 2
 Flags: MW
 LayerCount: 2
 Fore
 SplineSet
-236.36 46.91 m 2
- 117.27 46.91 50 99.64 50 216 c 0
- 50 316.91 101.81 385.09 236.36 385.09 c 2
- 325.46 385.09 l 1
- 334.46 376.09 334.46 344.09 325.46 335.09 c 1
- 236.36 335.09 l 1
- 127.27 334.18 107.27 288.72 97.27 240.54 c 1
- 325.46 240.54 l 1
- 334.46 231.54 334.46 200.45 325.46 191.45 c 1
- 97.27 191.45 l 1
- 107.27 147.81 121.81 96 236.36 96 c 2
- 325.46 96 l 1
- 334.46 87 334.46 55.91 325.46 46.91 c 1
- 236.36 46.91 l 2
+370 78 m 1
+ 266 78 l 2
+ 133 78 50 120 50 260 c 0
+ 50 400 133 442 266 442 c 2
+ 370 442 l 1
+ 382 430 382 404 370 392 c 1
+ 266 392 l 2
+ 172.95 392 111.52 366.2 101.46 285 c 1
+ 370 285 l 1
+ 382 273 382 247 370 235 c 1
+ 101.46 235 l 1
+ 111.52 153.8 172.95 128 266 128 c 2
+ 370 128 l 1
+ 382 116 382 90 370 78 c 1
 EndSplineSet
 EndChar
 
@@ -68762,72 +68754,42 @@ EndChar
 
 StartChar: suchthat
 Encoding: 8715 8715 1678
-Width: 500
+Width: 637
 GlyphClass: 2
 Flags: MW
 LayerCount: 2
 Fore
-SplineSet
-56.75 0 m 1
- 47.75 9 47.75 42.82 56.75 51.82 c 1
- 197.66 51.82 l 2
- 292.2 51.82 373.11 130.91 386.75 234.55 c 1
- 64.93 234.55 l 1
- 55.93 243.55 55.93 276.45 64.93 285.45 c 1
- 386.75 285.45 l 1
- 374.93 383.63 303.11 468.18 197.66 468.18 c 2
- 56.75 468.18 l 1
- 47.75 477.18 47.75 511 56.75 520 c 1
- 193.12 520 l 2
- 335.85 520 450.39 400.91 450.39 260 c 0
- 450.39 120 337.67 0 193.12 0 c 2
- 56.75 0 l 1
-EndSplineSet
+Refer: 1343 8712 N -1 0 0 1 637 0 3
 Colour: ff00ff
 EndChar
 
 StartChar: uni220C
 Encoding: 8716 8716 1679
-Width: 500
+Width: 637
 GlyphClass: 2
 UnlinkRmOvrlpSave: 1
 Flags: MW
 LayerCount: 2
 Fore
 SplineSet
-130 -54 m 1
- 121 -63 85 -63 76 -54 c 1
- 304 574 l 1
- 313 583 349 583 358 574 c 1
- 130 -54 l 1
+207 -54 m 1
+ 198 -63 162 -63 153 -54 c 1
+ 381 574 l 1
+ 390 583 426 583 435 574 c 1
+ 207 -54 l 1
 EndSplineSet
-Refer: 1678 8715 N 1 0 0 1 0 0 2
+Refer: 1678 8715 N 1 0 0 1 0 0 3
 Colour: ff00ff
 EndChar
 
 StartChar: uni220D
 Encoding: 8717 8717 1680
-Width: 382
+Width: 429
 GlyphClass: 2
 Flags: MW
 LayerCount: 2
 Fore
-SplineSet
-145.85 46.91 m 2
- 56.75 46.91 l 1
- 47.75 55.91 47.75 87 56.75 96 c 1
- 145.85 96 l 2
- 260.4 96 274.94 147.81 284.94 191.45 c 1
- 56.75 191.45 l 1
- 47.75 200.45 47.75 231.54 56.75 240.54 c 1
- 284.94 240.54 l 1
- 274.94 288.72 254.94 334.18 145.85 335.09 c 1
- 56.75 335.09 l 1
- 47.75 344.09 47.75 376.09 56.75 385.09 c 1
- 145.85 385.09 l 2
- 280.4 385.09 332.21 316.91 332.21 216 c 0
- 332.21 99.64 264.94 46.91 145.85 46.91 c 2
-EndSplineSet
+Refer: 1345 8714 N -1 0 0 1 429 0 3
 Colour: ff00ff
 EndChar
 
@@ -85500,7 +85462,7 @@ EndChar
 
 StartChar: intersection
 Encoding: 8745 8745 2074
-Width: 526
+Width: 620
 GlyphClass: 2
 Flags: MW
 LayerCount: 2
@@ -85510,63 +85472,51 @@ EndChar
 
 StartChar: union
 Encoding: 8746 8746 2075
-Width: 526
+Width: 620
 GlyphClass: 2
 Flags: MW
 LayerCount: 2
 Fore
 SplineSet
-426 520 m 1
- 438 532 464 532 476 520 c 1
- 476 264 l 2
- 476 109 438 -8 263 -8 c 0
- 88 -8 50 109 50 264 c 2
+520 520 m 1
+ 532 532 558 532 570 520 c 1
+ 570 300 l 2
+ 570 110 510 -8 310 -8 c 0
+ 110 -8 50 110 50 300 c 2
  50 520 l 1
  62 532 88 532 100 520 c 1
- 100 264 l 2
- 100 138 130 42 263 42 c 0
- 396 42 426 138 426 264 c 2
- 426 520 l 1
+ 100 300 l 2
+ 100 141 149 42 310 42 c 0
+ 471 42 520 141 520 300 c 2
+ 520 520 l 1
 EndSplineSet
 Colour: ff00ff
 EndChar
 
 StartChar: propersubset
 Encoding: 8834 8834 2076
-Width: 597
+Width: 637
 GlyphClass: 2
 Flags: MW
 LayerCount: 2
 Fore
-SplineSet
-310 0 m 2
- 166 0 50 116 50 260 c 0
- 50 404 166 520 310 520 c 2
- 538 520 l 17
- 550 508 550 482 538 470 c 1
- 310 470 l 2
- 194 470 100 376 100 260 c 0
- 100 144 194 50 310 50 c 2
- 538 50 l 17
- 550 38 550 12 538 0 c 9
- 310 0 l 2
-EndSplineSet
+Refer: 2075 8746 N 0 -1 1 0 58 570 2
 EndChar
 
 StartChar: propersuperset
 Encoding: 8835 8835 2077
-Width: 597
+Width: 637
 GlyphClass: 2
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 2076 8834 N -1 0 0 -1 597 520 2
+Refer: 2076 8834 N -1 0 0 -1 637 520 3
 Colour: ff00ff
 EndChar
 
 StartChar: notsubset
 Encoding: 8836 8836 2078
-Width: 597
+Width: 637
 GlyphClass: 2
 UnlinkRmOvrlpSave: 1
 Flags: MW
@@ -85579,7 +85529,7 @@ EndChar
 
 StartChar: uni2285
 Encoding: 8837 8837 2079
-Width: 597
+Width: 637
 GlyphClass: 2
 UnlinkRmOvrlpSave: 1
 Flags: MW
@@ -134777,15 +134727,15 @@ EndChar
 
 StartChar: reflexsubset
 Encoding: 8838 8838 3395
-Width: 597
+Width: 637
 GlyphClass: 2
 Flags: MW
 LayerCount: 2
 Fore
 SplineSet
 59 -25 m 1
- 538 -25 l 1
- 550 -37 550 -63 538 -75 c 1
+ 578 -25 l 1
+ 590 -37 590 -63 578 -75 c 1
  59 -75 l 1
  47 -63 47 -37 59 -25 c 1
 EndSplineSet
@@ -134794,15 +134744,15 @@ EndChar
 
 StartChar: reflexsuperset
 Encoding: 8839 8839 3396
-Width: 597
+Width: 637
 GlyphClass: 2
 Flags: MW
 LayerCount: 2
 Fore
 SplineSet
 59 -25 m 1
- 538 -25 l 1
- 550 -37 550 -63 538 -75 c 1
+ 578 -25 l 1
+ 590 -37 590 -63 578 -75 c 1
  59 -75 l 1
  47 -63 47 -37 59 -25 c 1
 EndSplineSet
@@ -134811,50 +134761,50 @@ EndChar
 
 StartChar: uni2288
 Encoding: 8840 8840 3397
-Width: 597
+Width: 637
 GlyphClass: 2
 UnlinkRmOvrlpSave: 1
 Flags: MW
 LayerCount: 2
 Fore
 Refer: 4078 -1 N 1 0 0 1 300 0 2
-Refer: 3395 8838 N 1 0 0 1 0 0 2
+Refer: 3395 8838 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uni2289
 Encoding: 8841 8841 3398
-Width: 597
+Width: 637
 GlyphClass: 2
 UnlinkRmOvrlpSave: 1
 Flags: MW
 LayerCount: 2
 Fore
 Refer: 4078 -1 N 1 0 0 1 300 0 2
-Refer: 3396 8839 N 1 0 0 1 0 0 2
+Refer: 3396 8839 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uni228A
 Encoding: 8842 8842 3399
-Width: 597
+Width: 637
 GlyphClass: 2
 UnlinkRmOvrlpSave: 1
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 4082 -1 N 1 0 0 1 300 -310 2
-Refer: 3395 8838 N 1 0 0 1 0 0 2
+Refer: 4082 -1 N 1 0 0 1 318.5 -310 2
+Refer: 3395 8838 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uni228B
 Encoding: 8843 8843 3400
-Width: 597
+Width: 637
 GlyphClass: 2
 UnlinkRmOvrlpSave: 1
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 4082 -1 N 1 0 0 1 300 -310 2
-Refer: 3396 8839 N 1 0 0 1 0 0 2
+Refer: 4082 -1 N 1 0 0 1 318.5 -310 2
+Refer: 3396 8839 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uni0338.short
@@ -135027,46 +134977,46 @@ EndChar
 
 StartChar: uni228C
 Encoding: 8844 8844 3414
-Width: 526
+Width: 620
 GlyphClass: 2
 Flags: MW
 LayerCount: 2
 Fore
 SplineSet
-167 247 m 1
- 190 239 235 218 277 172 c 1
- 301 172 l 1
- 285 203 250 234 235 244 c 1
- 358 244 l 1
- 358 276 l 1
- 235 276 l 1
- 250 286 285 317 301 348 c 1
- 277 348 l 1
- 235 302 190 281 167 273 c 1
- 167 247 l 1
+214 247 m 1
+ 237 239 282 218 324 172 c 1
+ 348 172 l 1
+ 332 203 297 234 282 244 c 1
+ 405 244 l 1
+ 405 276 l 1
+ 282 276 l 1
+ 297 286 332 317 348 348 c 1
+ 324 348 l 1
+ 282 302 237 281 214 273 c 1
+ 214 247 l 1
 EndSplineSet
 Refer: 2075 8746 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uni228D
 Encoding: 8845 8845 3415
-Width: 526
+Width: 620
 GlyphClass: 2
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 1229 8901 N 1 0 0 1 159 0 2
+Refer: 1229 8901 N 1 0 0 1 206 0 2
 Refer: 2075 8746 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uni228E
 Encoding: 8846 8846 3416
-Width: 526
+Width: 620
 GlyphClass: 2
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 3213 -1 N 0.4 0 0 0.4 145.5 151.1 2
+Refer: 3213 -1 N 0.4 0 0 0.4 192.5 151.1 2
 Refer: 2075 8746 N 1 0 0 1 0 0 2
 EndChar
 
