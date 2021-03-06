@@ -49942,13 +49942,7 @@ GlyphClass: 2
 Flags: MW
 LayerCount: 2
 Fore
-SplineSet
-56.75 206 m 9
- 286.75 376 l 17
- 295.75 367 295.75 323 286.75 314 c 9
- 56.75 144 l 17
- 47.75 153 47.75 197 56.75 206 c 9
-EndSplineSet
+Refer: 4081 -1 N 0 1 1 0 -88.5 260 2
 Refer: 1213 8739 N 1 0 0 1 66.75 0 2
 Colour: ff9ccc
 EndChar
@@ -49967,19 +49961,13 @@ EndChar
 
 StartChar: uni2226
 Encoding: 8742 8742 1216
-Width: 523
+Width: 624
 GlyphClass: 2
 Flags: MW
 LayerCount: 2
 Fore
-SplineSet
-56.75 78 m 1
- 47.75 87 47.75 131 56.75 140 c 1
- 466.75 442 l 1
- 475.75 433 475.75 389 466.75 380 c 1
- 56.75 78 l 1
-EndSplineSet
-Refer: 1215 8741 N 1 0 0 1 66.75 0 2
+Refer: 4075 -1 N 0 1 1 0 52 260 2
+Refer: 1215 8741 N 1 0 0 1 117.25 0 2
 Colour: ff9ccc
 EndChar
 
@@ -54502,13 +54490,7 @@ UnlinkRmOvrlpSave: 1
 Flags: MW
 LayerCount: 2
 Fore
-SplineSet
-256 -54 m 1
- 247 -63 211 -63 202 -54 c 1
- 430 574 l 1
- 439 583 475 583 484 574 c 1
- 256 -54 l 1
-EndSplineSet
+Refer: 4077 -1 N 1 0 0 1 340 0 2
 Refer: 1343 8712 N 1 0 0 1 0 0 3
 Colour: ff9ccc
 EndChar
@@ -68771,13 +68753,7 @@ UnlinkRmOvrlpSave: 1
 Flags: MW
 LayerCount: 2
 Fore
-SplineSet
-207 -54 m 1
- 435 574 l 1
- 426 583 390 583 381 574 c 1
- 153 -54 l 1
- 162 -63 198 -63 207 -54 c 1
-EndSplineSet
+Refer: 4077 -1 N 1 0 0 1 297 0 2
 Refer: 1678 8715 N 1 0 0 1 0 0 3
 Colour: ff00ff
 EndChar
