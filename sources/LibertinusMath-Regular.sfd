@@ -13919,19 +13919,19 @@ Flags: MW
 LayerCount: 2
 Fore
 SplineSet
-299 95 m 9
+299 100 m 9
  299 285 l 1
  59 285 l 17
  47 297 47 323 59 335 c 9
  299 335 l 1
- 299 525 l 17
- 311 537 337 537 349 525 c 9
+ 299 520 l 17
+ 311 532 337 532 349 520 c 9
  349 335 l 1
  589 335 l 17
  601 323 601 297 589 285 c 9
  349 285 l 1
- 349 95 l 17
- 337 83 311 83 299 95 c 9
+ 349 100 l 17
+ 337 88 311 88 299 100 c 9
 EndSplineSet
 Refer: 1205 8722 N 1 0 0 1 0 -235 2
 Colour: ff00ff
@@ -49785,7 +49785,7 @@ GlyphClass: 2
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 328 177 N 1 0 0 -1 0 460 2
+Refer: 328 177 N 1 0 0 -1 0 520 2
 Colour: ff00ff
 EndChar
 
