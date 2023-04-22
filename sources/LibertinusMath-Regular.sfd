@@ -622,7 +622,7 @@ Grid
   Named: "Top Accent"
 EndSplineSet
 AnchorClass2: "aboveMark" "'mkmk' Mark to Mark-1" "right" "'mark' Right" "komb_OR" "'mark' Komb OR" "above" "'mark' Above" "below" "'mark' Below" "cedilla" "'mark' Cedilla" "ogonek" "'mark' Ogonek" "middle" "'mark' Middle"
-BeginChars: 1114839 4378
+BeginChars: 1114839 4379
 
 StartChar: exclam
 Encoding: 33 33 0
@@ -161198,6 +161198,25 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4015 10239 S -1 0 0 1 1411 0 2
+EndChar
+
+StartChar: uniFB29
+Encoding: 64297 64297 4375
+Width: 648
+Flags: HWO
+LayerCount: 2
+Fore
+SplineSet
+59 235 m 21
+ 47 247 47 273 59 285 c 9
+ 299 285 l 1
+ 299 525 l 17
+ 311 537 337 537 349 525 c 9
+ 349 285 l 1
+ 589 285 l 17
+ 601 273 601 247 589 235 c 13
+ 59 235 l 21
+EndSplineSet
 EndChar
 EndChars
 EndSplineFont
