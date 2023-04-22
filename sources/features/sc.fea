@@ -108,6 +108,7 @@ lookup smcp_smallcap {
   sub uni1E2B by h.sc uni032E;
   sub ijacute by ijacute.sc;
   sub i_j by ij.sc;
+  sub hbar by hbar.sc;
 } smcp_smallcap;
 
 lookup smcp_smallcap_idot {
